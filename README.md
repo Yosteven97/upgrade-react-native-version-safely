@@ -1,4 +1,4 @@
-# upgrade react native version safely
+# upgrade version of react native safely
 
 
 ## terminal guide
